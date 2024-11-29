@@ -209,5 +209,6 @@ def main(page: ft.Page):
     # 起動時に地域情報を取得
     fetch_areas()
 
+
 # アプリ実行
 ft.app(target=main)
